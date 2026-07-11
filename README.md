@@ -22,7 +22,7 @@ This project is an interactive Power BI dashboard created using Blinkit sales da
 
 - ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Skills
 - Data Cleaning
