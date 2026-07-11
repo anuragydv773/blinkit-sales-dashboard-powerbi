@@ -20,6 +20,10 @@ This project is an interactive Power BI dashboard created using Blinkit sales da
 - DAX
 - Microsoft Excel
 
+- ## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Skills
 - Data Cleaning
 - Data Visualization
